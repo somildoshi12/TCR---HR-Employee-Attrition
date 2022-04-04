@@ -1,4 +1,4 @@
-# TCR-HR-Employee-Attrition
+# TCR - HR Employee Attrition
 
 Steps involved -
 
@@ -8,4 +8,3 @@ Steps involved -
 4) Feature engineering
 5) Features selection
 6) Model fitting
-
